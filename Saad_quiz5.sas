@@ -58,15 +58,15 @@ tables DM count; run;
 
 /*table of diabetes diagnosis and diabetes frequency
 DM		Frequency		Percent		Cumulative frequency	Cumulative percent
-0		1898			95.81		1898					95.81
-1		83				4.19		1981					100.00
+0		1898			95.81		1898			95.81
+1		83			4.19		1981			100.00
 
-Count	Frequency		Percent		Cumulative frequency	Cumulative percent
-0		1898			95.81		1898					95.81
-1		83				4.19		1981					100.00
+Count		Frequency		Percent		Cumulative frequency	Cumulative percent
+0		1898			95.81		1898			95.81
+1		83			4.19		1981			100.00
 */
 
-/* Findings: 83/1981 (4.19%) of all encounters happening between January 1st of 2013 and December 31st of 2014
+/* Findings: 83/1981 (4.19%) of all encounters happening between January 1st of 2003 and December 31st of 2004
 had a diagnosis of diabetes. No encounters had more than one diagnosis of diabetes*/
 
 /*End of quiz*/
